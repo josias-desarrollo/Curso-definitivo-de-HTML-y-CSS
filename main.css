@@ -1,0 +1,26 @@
+div{
+    width: 215px;
+    background-color:#008152 ;
+    text-align: center;
+    border-radius: 8px;
+    padding: 24px 28px 32px 32px;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+    */
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: plus jakarta sans;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+
+}
